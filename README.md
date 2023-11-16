@@ -8,5 +8,5 @@ It was lovely chatting with everyone after the talk and I want to thank everyone
 
 ## Links
 
-- [pdf slides]()
+- [pdf slides](https://github.com/giacomocavalieri/functional-programming-with-gleam-talk-at-unibo/blob/main/slides.pdf)
 - [recording of the talk](https://www.youtube.com/watch?v=PpasgrDsKis)
